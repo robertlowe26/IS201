@@ -1,0 +1,33 @@
+/* Robert Lowe April 14 */
+.index-photos-container {
+    text-align: center;
+}
+.row .justify-content-around .col {
+    display: inline-block;
+}
+.justify-content-around .col {
+    width: 400px;
+}
+.bold {
+    font-weight: bold !important;
+}
+.underline {
+    text-decoration: underline;
+}
+
+.normal {
+    text-decoration: none;
+}
+
+.resumefont {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.myColor {
+    color: rgba(243, 243, 243, 0.829) !important;
+}
+.centerContent {
+    width: 100%;
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
